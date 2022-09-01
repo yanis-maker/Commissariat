@@ -1,0 +1,11 @@
+DROP TABLE commissariat.NOMME;
+DROP TABLE commissariat.GRADES;
+DROP TABLE commissariat.GARDE_A_VUE;
+DROP TABLE commissariat.ENQUETE;
+DROP TABLE commissariat.IMPLIQUE;
+DROP TABLE commissariat.PIECES_A_CONVICTION;
+DROP TABLE commissariat.AFFAIRE;
+DROP TABLE commissariat.CIVIL;
+DROP TABLE commissariat.POLICIER;
+DROP TABLE commissariat.PERSONNE;
+DROP DATABASE commissariat;
